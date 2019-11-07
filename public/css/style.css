@@ -1,0 +1,43 @@
+.header {
+    background: #ccc;
+    padding: 20px;
+    }
+  
+.sidebar {
+	float: left;
+	width: 25%;
+	border-right: solid gray;
+}
+
+.content {
+	margin-left: 30%;
+}
+
+.footer {
+	clear: right;
+	background: #eee;
+	padding: 20px;
+}
+
+
+.logo {
+	width: 75px;
+	height: 75px;
+	display: inline-block;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.nav {
+	display: inline-block;
+	position: relative;
+	float: right;
+	padding: 25px;
+}
+.nav a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.form-contact {
+	margin: 10px;
+}
